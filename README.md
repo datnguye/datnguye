@@ -7,6 +7,11 @@
 - [mssql-num2words](https://github.com/datnguye/mssql-num2words)
 - [pymocko](https://github.com/datnguye/pymocko)
 
+
+#### Published pip packages:
+[pypi/datnguye](https://pypi.org/user/datnguye/)
+
+
 #### Find me on:
  - [LinkedIn](https://www.linkedin.com/in/tuiladat/)
  - [Medium](https://datnguyen-it09.medium.com/)
