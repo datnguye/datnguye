@@ -7,9 +7,9 @@
 |:------------------|:---------------------|:-----:|:----------------------------|
 | SQL |[sqlserver](https://github.com/datnguye/SQL-Server)| N/A | |
 | SQL |[mssql-num2words](https://github.com/datnguye/mssql-num2words)| N/A | |
-| Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| pip package available|
-| Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| docker image, pip package available|
-| Pip package | [pymocko](https://github.com/datnguye/pymocko) | |
+| Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| `pip package` available|
+| Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| `docker image`, `pip package` available|
+| Pip package | [pymocko](https://github.com/datnguye/pymocko) | N/A | |
 
 
 #### Published package(s):
