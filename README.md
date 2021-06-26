@@ -7,6 +7,7 @@
 - [mssql-num2words](https://github.com/datnguye/mssql-num2words)
 - [snowbim](https://github.com/datnguye/snowbim)
 - [pymocko](https://github.com/datnguye/pymocko)
+- [socialfeeder](https://github.com/datnguye/socialfeeder)
 
 
 #### Published package(s):
