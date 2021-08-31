@@ -10,6 +10,7 @@
 | Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| `pip package` available|
 | Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| `docker image`, `pip package` available|
 | Pip package | [pymocko](https://github.com/datnguye/pymocko) | N/A | |
+| Base Platform | [pybase](https://github.com/datnguye/pybase) | N/A | FastAPI, Vue, Postgres |
 
 
 #### Published package(s):
