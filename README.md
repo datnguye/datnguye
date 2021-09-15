@@ -26,6 +26,7 @@
 
 | Category          |      Name            | Build | Notes                       |
 |:------------------|:---------------------|:-----:|:----------------------------|
+| Plotly, MSSQL | [viusal](https://github.com/datnguye/dashboard-power655) | N/A | Dashboard portal ([Demo](https://visual.dataresto.net/power655-stats-dashboard)) |
 | N/A | [snowsql to mssql](https://github.com/datnguye/snowflake2mssql) | N/A | Convert SnowSQL to MSSQL, helpful on migration |
 | Fullstack | [pybase](https://github.com/datnguye/pybase) | N/A | FastAPI, Vue, Postgres (private, under development) |
 
