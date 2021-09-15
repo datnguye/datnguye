@@ -10,7 +10,6 @@
 | Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| `pip package` available|
 | Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| `docker image`, `pip package` available|
 | Pip package | [pymocko](https://github.com/datnguye/pymocko) | N/A | |
-| Fullstack | [pybase](https://github.com/datnguye/pybase) | N/A | FastAPI, Vue, Postgres (private, under development) |
 
 
 #### Published package(s):
@@ -21,6 +20,16 @@
 #### Find me on:
  - [LinkedIn](https://www.linkedin.com/in/tuiladat/)
  - [Medium](https://datnguyen-it09.medium.com/)
+
+
+#### Ongoing self-developed projects:
+
+| Category          |      Name            | Build | Notes                       |
+|:------------------|:---------------------|:-----:|:----------------------------|
+| N/A | [snowsql to mssql](https://github.com/datnguye/snowflake2mssql) | N/A | Convert SnowSQL to MSSQL, helpful on migration |
+| Fullstack | [pybase](https://github.com/datnguye/pybase) | N/A | FastAPI, Vue, Postgres (private, under development) |
+
+
 
 > You know who I am. If not, now you may know ;-) 
 
