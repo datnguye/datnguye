@@ -8,10 +8,10 @@
 |:------------------|:---------------------|:-----:|:----------------------------|
 | SQL |[sqlserver](https://github.com/datnguye/SQL-Server)| N/A | |
 | SQL |[mssql-num2words](https://github.com/datnguye/mssql-num2words)| N/A | |
-| Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| `pip package` available|
-| Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| `docker image`, `pip package` available|
+| Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| [`pip package`](https://pypi.org/project/snowbim/) available|
+| Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| [`docker image`](https://hub.docker.com/repository/docker/tuiladat/socialfeeder), [`pip package`](https://pypi.org/project/socialfeeder/) available|
 | Pip package | [pymocko](https://github.com/datnguye/pymocko) | N/A | |
-| dbt & MS SQL| [dbt-mssql](https://github.com/datnguye/dbt-mssql) | N/A | Playing data transformation with dbt in SQL Server.<br />`dbt docker images` available|
+| dbt & MS SQL| [dbt-mssql](https://github.com/datnguye/dbt-mssql) | N/A | Playing data transformation with dbt in SQL Server.<br />`dbt docker images` available as [`provision`](https://hub.docker.com/repository/docker/tuiladat/dbt-mssql-provision) and [`processing`](https://hub.docker.com/repository/docker/tuiladat/dbt-mssql-processing)|
 
 
 #### Published package(s):
