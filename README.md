@@ -4,14 +4,14 @@
 
 
 #### Some project(s) on splotlight:
-| Category          |      Name            | Build | Notes                       |
-|:------------------|:---------------------|:-----:|:----------------------------|
+| Category          |      Name            |           Build         | Notes                       |
+|:------------------|:---------------------|:-----------------------:|:----------------------------|
 | SQL |[sqlserver](https://github.com/datnguye/SQL-Server)| N/A | |
 | SQL |[mssql-num2words](https://github.com/datnguye/mssql-num2words)| N/A | |
 | Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| [`pip package`](https://pypi.org/project/snowbim/) available|
 | Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| [`docker image`](https://hub.docker.com/repository/docker/tuiladat/socialfeeder), [`pip package`](https://pypi.org/project/socialfeeder/) available|
 | Pip package | [pymocko](https://github.com/datnguye/pymocko) | N/A | |
-| dbt<br />SQLServer<br />FastAPI<br />Prefect| [dbt-mssql](https://github.com/datnguye/dbt-mssql) | [![Awesome dbt CI](https://github.com/datnguye/dbt-mssql/actions/workflows/ci-awesome-dbt.yml/badge.svg)](https://github.com/datnguye/dbt-mssql/actions/workflows/ci-awesome-dbt.yml) <br />[![Awesome dbt Publish](https://github.com/datnguye/dbt-mssql/actions/workflows/cd-awesome-dbt.yml/badge.svg)](https://github.com/datnguye/dbt-mssql/actions/workflows/cd-awesome-dbt.yml) | Playing data transformation with dbt in SQL Server.<br />- `dbt docker images` available as [`provision`](https://hub.docker.com/repository/docker/tuiladat/dbt-mssql-provision) and [`processing`](https://hub.docker.com/repository/docker/tuiladat/dbt-mssql-processing)<br />- [`Awesome dbt`](https://hub.docker.com/repository/docker/tuiladat/awesome-dbt) API service available|
+| dbt<br />SQLServer<br />FastAPI<br />Prefect| [dbt-mssql](https://github.com/datnguye/dbt-mssql) | [![CI](https://github.com/datnguye/dbt-mssql/actions/workflows/ci-awesome-dbt.yml/badge.svg)](https://github.com/datnguye/dbt-mssql/actions/workflows/ci-awesome-dbt.yml) <br />[![CD](https://github.com/datnguye/dbt-mssql/actions/workflows/cd-awesome-dbt.yml/badge.svg)](https://github.com/datnguye/dbt-mssql/actions/workflows/cd-awesome-dbt.yml) | Playing data transformation with dbt in SQL Server.<br />- `dbt docker images` available as [`provision`](https://hub.docker.com/repository/docker/tuiladat/dbt-mssql-provision) and [`processing`](https://hub.docker.com/repository/docker/tuiladat/dbt-mssql-processing)<br />- [`Awesome dbt`](https://hub.docker.com/repository/docker/tuiladat/awesome-dbt) API service available|
 
 
 #### Published package(s):
