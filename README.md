@@ -26,15 +26,6 @@
  - [Medium](https://datnguyen-it09.medium.com/)
 
 
-#### Ongoing self-developed projects:
-
-| Category          |      Name            | Build | Notes                       |
-|:------------------|:---------------------|:-----:|:----------------------------|
-| Plotly, MSSQL | [viusal](https://github.com/datnguye/dashboard-power655) | N/A | Dashboard portal ([Demo](https://visual.dataresto.net/power655-stats-dashboard)) |
-| N/A | [snowsql to mssql](https://github.com/datnguye/snowflake2mssql) | N/A | Convert MSSQL 2 SnowSQL, helpful on migration |
-| Fullstack | [pybase](https://github.com/datnguye/pybase) | N/A | FastAPI, Vue, Postgres (private, under development) |
-
-
 
 > You know who I am. If not, now you may know ;-) 
 
