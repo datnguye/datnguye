@@ -15,6 +15,14 @@
 | dbt<br />PostgreSQL<br />FastAPI<br />Prefect| [dbt-postgres](https://github.com/datnguye/dbt-postgres) | [![SSH deployment](https://github.com/datnguye/dbt-postgres/actions/workflows/ssh-to-server.yml/badge.svg?branch=main)](https://github.com/datnguye/dbt-postgres/actions/workflows/ssh-to-server.yml) | Playing data transformation with dbt in PostgreSQL.<br />- `Awesome dbt` API service |
 
 
+#### DevOps giving to a play
+- [superset-ci-template](https://github.com/datnguye/superset-ci-template): A workflow template to ssh deploy superset service to Ubuntu 20.04 server
+  > _#githubaction #ssh #linux #superset_
+  
+  [![SSH deployment](https://github.com/datnguye/superset-ci-template/actions/workflows/ssh-deploy-superset.yml/badge.svg)](https://github.com/datnguye/superset-ci-template/actions/workflows/ssh-deploy-superset.yml)
+
+
+
 
 #### Published package(s):
 - [pypi/datnguye](https://pypi.org/user/datnguye/)
