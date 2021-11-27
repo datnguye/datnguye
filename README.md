@@ -5,7 +5,7 @@
 
 #### Some project(s) on splotlight:
 | Category          |      Name            |           Build         | Notes                       |
-|:------------------|:---------------------|:-----------------------:|:----------------------------|
+|:------------------|:---------------------|:------------------------|:----------------------------|
 | SQL |[sqlserver](https://github.com/datnguye/SQL-Server)| N/A | |
 | SQL |[mssql-num2words](https://github.com/datnguye/mssql-num2words)| N/A | |
 | Python CLI | [snowbim](https://github.com/datnguye/snowbim) | [![CircleCI](https://circleci.com/gh/datnguye/snowbim.svg?style=svg)](https://github.com/datnguye/snowbim#readme)| [`pip package`](https://pypi.org/project/snowbim/) available|
