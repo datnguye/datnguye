@@ -22,13 +22,6 @@
   [![SSH deployment](https://github.com/datnguye/superset-ci-template/actions/workflows/ssh-deploy-superset.yml/badge.svg)](https://github.com/datnguye/superset-ci-template/actions/workflows/ssh-deploy-superset.yml)
 
 
-
-
-#### Published package(s):
-- [pypi/datnguye](https://pypi.org/user/datnguye/)
-- [dockerhub/tuiladat](https://hub.docker.com/u/tuiladat)
-
-
 #### Find me on:
  - [LinkedIn](https://www.linkedin.com/in/tuiladat/)
  - [Medium](https://datnguyen-it09.medium.com/)
