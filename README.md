@@ -10,8 +10,8 @@
 | SQL |[mssql-num2words](https://github.com/datnguye/mssql-num2words)| N/A | |
 | Python CLI | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| [`docker image`](https://hub.docker.com/repository/docker/tuiladat/socialfeeder), [`pip package`](https://pypi.org/project/socialfeeder/) available|
 | dbt<br />PostgreSQL<br />FastAPI<br />Prefect| [dbt-postgres](https://github.com/datnguye/dbt-postgres) | [![SSH deployment](https://github.com/datnguye/dbt-postgres/actions/workflows/ssh-to-server.yml/badge.svg?branch=main)](https://github.com/datnguye/dbt-postgres/actions/workflows/ssh-to-server.yml) | Playing data transformation with dbt in PostgreSQL.<br />- `Awesome dbt` API service |
-| dbt-resto | [dbt-resto](https://github.com/datnguye/dbt-resto) | [![integration_tests](https://github.com/datnguye/dbt-resto/actions/workflows/main.yml/badge.svg)](https://github.com/datnguye/dbt-resto/actions/workflows/main.yml) | Trying to build a dbt package |
-| dbterd | [dbterd](https://github.com/datnguye/dbterd) | N/A | (Upcoming) CLI for generating ERD from dbt project |
+| dbt | [dbt-resto](https://github.com/datnguye/dbt-resto) | [![integration_tests](https://github.com/datnguye/dbt-resto/actions/workflows/main.yml/badge.svg)](https://github.com/datnguye/dbt-resto/actions/workflows/main.yml) | Trying to build a dbt package |
+| Python CLI | [dbterd](https://github.com/datnguye/dbterd) | N/A | (Upcoming) CLI for generating ERD from dbt project |
 
 
 #### DevOps giving to a play
