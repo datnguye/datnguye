@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-- 🔭 I’m a "blood of D" who is currently working on Data field 
+🔭 I’m a "blood of D" who is currently working on Data field using:
 
+![python](https://img.shields.io/badge/CLI-Python-FFCE3E?style=flat-square&labelColor=14354C&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/Query-SQL-FFCE3E?style=flat-square&labelColor=14354C&logo=sql&logoColor=white)
+![snowflake](https://img.shields.io/badge/DWH-Snowflake-9cf?style=flat-square&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/ELT-dbt-FF694B?style=flat-square&logo=dbt&logoColor=FF694B)
+![BI-PowerBI](https://img.shields.io/badge/BI-PowerBI-yellow?style=flat-square&logo=PowerBI&logoColor=yellow)
+![BI-Opensource](https://img.shields.io/badge/BI-OpenSource-lightgrey?style=flat-square&logo=OpenSource&logoColor=lightgrey)
 
 #### Some project(s) on splotlight:
 | Category          |      Name            |           Build         | Notes                       |
