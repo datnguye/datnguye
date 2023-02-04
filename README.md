@@ -17,14 +17,7 @@
 
 
 #### Some works on splotlight:
-| Categories              |      Repo            |           Build         | Notes                       |
-|:------------------------|:---------------------|:------------------------|:----------------------------|
-| ![SQL](https://img.shields.io/badge/Query-SQL-FFCE3E?style=flat-square&labelColor=14354C&logo=sql&logoColor=white) ![dwh](https://img.shields.io/badge/DWH-SqlServer-9cf?style=flat-square&logo=microsoftsqlserver&logoColor=white)|[sqlserver](https://github.com/datnguye/SQL-Server)| N/A | |
-| ![SQL](https://img.shields.io/badge/Query-SQL-FFCE3E?style=flat-square&labelColor=14354C&logo=sql&logoColor=white) ![dwh](https://img.shields.io/badge/DWH-SqlServer-9cf?style=flat-square&logo=microsoftsqlserver&logoColor=white) |[mssql-num2words](https://github.com/datnguye/mssql-num2words)| N/A | |
-| ![python](https://img.shields.io/badge/CLI-Python-FFCE3E?style=flat-square&labelColor=14354C&logo=python&logoColor=white) | [socialfeeder](https://github.com/datnguye/socialfeeder) | [![CircleCI](https://circleci.com/gh/datnguye/socialfeeder.svg?style=svg)](https://github.com/datnguye/socialfeeder#readme)| [`docker image`](https://hub.docker.com/repository/docker/tuiladat/socialfeeder), [`pip package`](https://pypi.org/project/socialfeeder/) available|
-| ![dbt](https://img.shields.io/badge/ELT-dbt-FF694B?style=flat-square&logo=dbt&logoColor=FF694B) ![dwh](https://img.shields.io/badge/DWH-PostgreSQL-9cf?style=flat-square&logo=postgresql&logoColor=white) ![python](https://img.shields.io/badge/Orchestration-Prefect-green?style=flat-square&labelColor=14354C&logo=python&logoColor=white) ![python](https://img.shields.io/badge/API-Python-green?style=flat-square&labelColor=14354C&logo=python&logoColor=white)| [dbt-postgres](https://github.com/datnguye/dbt-postgres) | [![SSH deployment](https://github.com/datnguye/dbt-postgres/actions/workflows/ssh-to-server.yml/badge.svg?branch=main)](https://github.com/datnguye/dbt-postgres/actions/workflows/ssh-to-server.yml) | Playing data transformation with dbt in PostgreSQL.<br />- `Awesome dbt` API service |
-| ![elt](https://img.shields.io/badge/ELT-dbt-FF694B?style=flat-square&logo=dbt&logoColor=FF694B) | [dbt-resto](https://github.com/datnguye/dbt-resto) | [![integration_tests](https://github.com/datnguye/dbt-resto/actions/workflows/main.yml/badge.svg)](https://github.com/datnguye/dbt-resto/actions/workflows/main.yml) | Trying to build a dbt package |
-| ![python-cli](https://img.shields.io/badge/CLI-Python-FFCE3E?style=flat-square&labelColor=14354C&logo=python&logoColor=white) | [dbterd](https://github.com/datnguye/dbterd) | N/A | (Upcoming) CLI for generating ERD from dbt project |
+TBU
 
 
 #### DevOps giving to a play
