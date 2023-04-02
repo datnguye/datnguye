@@ -1,3 +1,7 @@
+<head>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
+</head>
+
 ### Hi there 👋 
 
 <a href="https://www.linkedin.com/in/tuiladat" target="_blank"><img align="right" width="202" height="238" src="https://raw.githubusercontent.com/datnguye/datnguye/main/profile.jpg"></a>
