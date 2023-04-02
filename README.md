@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-🔭 I’m a **"🩸 of D"** who is currently working on Data field using:
+🔭 I’m a **DAT NGUYEN**,🩸of D(ata), who is currently working on Data field using:
 
 ![python-cli](https://img.shields.io/badge/CLI-Python-FFCE3E?style=flat-square&labelColor=14354C&logo=python&logoColor=white)
 ![python-api](https://img.shields.io/badge/API-Python-green?style=flat-square&labelColor=14354C&logo=python&logoColor=white)
