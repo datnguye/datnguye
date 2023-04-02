@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-<img align="right" width="202" height="238" src="https://raw.githubusercontent.com/datnguye/datnguye/main/profile.jpg">
+<a href="https://www.linkedin.com/in/tuiladat" target="_blank"><img align="right" width="202" height="238" src="https://raw.githubusercontent.com/datnguye/datnguye/main/profile.jpg"></a>
 
 🔭 I’m a **🩸of D(ata)** who is currently working on Data field using:
 
@@ -15,7 +15,7 @@
 💬 **Find me on**:
 
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://datnguyen-it09.medium.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/tuiladat/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuiladat/)
 [![spotlight](https://img.shields.io/badge/spotlight-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/datnguye/datnguye/blob/main/SPOTLIGHTS.md)
 
 
