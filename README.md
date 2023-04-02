@@ -15,11 +15,11 @@
 💬 **Find me on**:
 
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://datnguyen-it09.medium.com/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuiladat/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://ke.linkedin.com/in/tuiladat/)
 [![spotlight](https://img.shields.io/badge/spotlight-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/datnguye/datnguye/blob/main/SPOTLIGHTS.md)
 
 
 #### Github Statistics
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=datnguye)
-
 ![image](https://github-readme-stats.vercel.app/api?username=datnguye&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=datnguye)
