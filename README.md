@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+
+<img align="right" width="202" height="238" src="https://raw.githubusercontent.com/datnguye/datnguye/main/profile.jpg">
+
 🔭 I’m a **DAT NGUYEN**,🩸of D(ata), who is currently working on Data field using:
 
 ![python-cli](https://img.shields.io/badge/CLI-Python-FFCE3E?style=flat-square&labelColor=14354C&logo=python&logoColor=white)
