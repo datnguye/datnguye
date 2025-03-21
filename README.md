@@ -2,7 +2,7 @@
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?">
 </head>
 
-### Hi there 👋 
+### HelloThere().print("👋")
 
 <a href="https://www.linkedin.com/in/tuiladat" target="_blank"><img align="right" width="202" height="238" src="https://raw.githubusercontent.com/datnguye/datnguye/main/profile.jpg"></a>
 
@@ -16,11 +16,16 @@
 ![dashboard](https://img.shields.io/badge/BI-PowerBI-yellow?style=flat-square&logo=PowerBI&logoColor=yellow)
 ![dashboard](https://img.shields.io/badge/BI-OpenSource-lightgrey?style=flat-square&logo=OpenSource&logoColor=lightgrey)
 
-💬 **Find me on**:
+### 💬 Find me on:
 
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://datnguyen-it09.medium.com/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/datnguye/)
-[![spotlight](https://img.shields.io/badge/spotlight-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/datnguye/datnguye/blob/main/SPOTLIGHTS.md)
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://datnguyen-it09.medium.com/)
+
+### ⭐ Star my OSS at:
+
+[![dbterd](https://img.shields.io/badge/dbterd-30363D?style=for-the-badge&logo=GitHub&logoColor=#EA4AAA)](https://github.com/datnguye/dbterd)
+[![dbt-translate](https://img.shields.io/badge/dbt--translate-30363D?style=for-the-badge&logo=GitHub&logoColor=#EA4AAA)](https://github.com/datnguye/dbt-translate)
+[![mssql-num2words](https://img.shields.io/badge/mssql--num2words-30363D?style=for-the-badge&logo=GitHub&logoColor=#EA4AAA)](https://github.com/datnguye/mssql-num2words)
 
 
 ### Github Statistics 🤟
