@@ -31,3 +31,6 @@
 ### Github Statistics 🤟
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=datnguye&theme=radical)
 ![image](https://github-readme-stats.vercel.app/api?username=datnguye&show_icons=true&show_icons=true&theme=radical&count_private=true&cache_seconds=1800&line_height=24)
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9818368894527523"
+     crossorigin="anonymous"></script>
