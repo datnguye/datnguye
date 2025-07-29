@@ -6,7 +6,9 @@
 
 <a href="https://www.linkedin.com/in/tuiladat" target="_blank"><img align="right" width="202" height="238" src="https://raw.githubusercontent.com/datnguye/datnguye/main/profile.jpg"></a>
 
-🔭 I’m a **🩸of D(ata)** who is currently working on Data field using:
+👨‍💻 a Dad engineer · 🩸 a blood of Data · 💻 a Coder
+
+With data literally in my name and AI in my veins, I help companies make smarter decisions than my phone's autocorrect. From transforming messy spreadsheets into insightful dashboards to building data pipelines that actually work at 3 AM, I specialize in turning your "I think" into "I know" with the power of cloud-scale analytics and a dash of machine learning magic.
 
 ![python-cli](https://img.shields.io/badge/CLI-Python-FFCE3E?style=flat-square&labelColor=14354C&logo=python&logoColor=white)
 ![python-api](https://img.shields.io/badge/API-Python-green?style=flat-square&labelColor=14354C&logo=python&logoColor=white)
